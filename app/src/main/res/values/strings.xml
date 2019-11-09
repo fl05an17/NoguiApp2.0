@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NoguiApp2.0</string>
+
+
+    <!-- Title and description-->
+    <string name="title_intro_1">DESCUBRA LO QUE SUCEDE EN SUS CULTIVOS</string>
+    <string name="title_intro_2">REGISTRA INFORMACION SOBRE TUS ACTIVIDADES</string>
+    <string name="title_intro_3">OBTENGA SOLUCIONES AL INSTANTE</string>
+    <string name="text_term">Al comenzar aceptas los términos y condiciones </string>
+    <string name="frase_register">Aprende sobre tus cultivos y mantenlos sanos</string>
+    <string name="text_et_nombre">Nombre</string>
+    <string name="text_et_email">Correo</string>
+    <string name="text_et_pass">Contraseña</string>
+    <string name="cult_profile">Cultivos</string>
+    <string name="pend_profile">Pendientes</string>
+    <string name="descr_profile">Descripción</string>
+    <string name="rol_profile">Rol</string>
+    <string name="frase_login">Aprende Mientras cultivas</string>
+
+
+    <!--Bottons-->
+    <string name="next">Siguiente</string>
+    <string name="back">Anterior</string>
+    <string name="done">Iniciar</string>
+</resources>

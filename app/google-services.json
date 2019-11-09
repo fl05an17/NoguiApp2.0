@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342355638087",
+    "firebase_url": "https://noguiapp20.firebaseio.com",
+    "project_id": "noguiapp20",
+    "storage_bucket": "noguiapp20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342355638087:android:79806f05c7af2346173e62",
+        "android_client_info": {
+          "package_name": "com.example.noguiapp20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342355638087-i63gu5v0hjdqdkm3p4qnql9eonr471h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noguiapp20",
+            "certificate_hash": "639fb9b67589cbcecb0a35412e0f8c2f8bc78b10"
+          }
+        },
+        {
+          "client_id": "342355638087-pugsijujfssp2bki0v4h7amr01aop51i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKqFlL41wqMfmO3D93VwfQD7Bri_Vxf80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342355638087-pugsijujfssp2bki0v4h7amr01aop51i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

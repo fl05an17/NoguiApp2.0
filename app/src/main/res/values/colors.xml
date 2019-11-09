@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C0FFB3</color>
+    <color name="colorPrimaryDark">#21B554</color>
+    <color name="colorAccent">#F78A24</color>
+
+    <!--Colors for buttons Styles-->
+    <color name="gradiant_start_color">#F78A24</color>
+    <color name="gradiant_end_color">#F6F078</color>
+    <color name="color_text_btn">#52DE97</color>
+    <color name="color_button_1">#F8F8F8</color>
+    <color name="color_button_2">#21B554</color>
+
+
+
+    <!--Colors for tap and screen text-->
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#3F3D56</color>
+    <color name="intro_description_color">#AFAFB4</color>
+    <color name="background">#F8F8F8</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_red">#FD4E4A</color>
+
+
+
+    <!--Lineas-->
+    <color name="gray_line">#707070</color>
+
+
+</resources>

@@ -47,8 +47,8 @@ class MainActivity : AppCompatActivity() {
             //Log.i("@DATOS",""""usuario is : ${usuario} """")
 
             if(usuario?.isNotEmpty()!!){
-                var intent = Intent(this, inicio::class.java)
-                intent.putExtra("id", getUsernameFromEmail(usuario))
+                var intent = Intent(this, ActivityProfile::class.java)
+                intent.putExtra("id",getUsernameFromEmail(usuario))
                 startActivity(intent)
                 this.finish()
             }

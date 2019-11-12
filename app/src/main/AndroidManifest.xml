@@ -9,10 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ActivityProfile"></activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".ActivityProfile" />
         <activity android:name=".Registro" />
         <activity android:name=".inicio" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".IntroScreen.IntroActivity" />
+        <activity android:name=".RecylcerHome.ActivityHome">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
